@@ -7,4 +7,4 @@
 技术优化：CDN
 	智能DNS
 	负载均衡LVS
-代码管理器：Git
+代码管理器：Git+GitHub

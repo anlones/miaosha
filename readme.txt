@@ -1,0 +1,10 @@
+这是一个秒杀系统
+语言：php
+技术选型：Linux+Nginx+Mysql+PHP+Redis
+业务难点：高并发
+	多层次分布式处理
+	人机交互对抗
+技术优化：CDN
+	智能DNS
+	负载均衡LVS
+代码管理器：Git
